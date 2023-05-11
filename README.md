@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-    <a href="https://github.com/aaron1aaron2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
+    <a href="https://github.com/d29005132">
     </a>
 </p>
