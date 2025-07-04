@@ -17,7 +17,7 @@
 <tr>
 <td align="center" width="96">
 <a href="#-技術棧-tech-stack">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Python-3776AB?style=for-the-badge%26logo=python%26logoColor=white" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
 </a>
 <br>Python
 </td>
